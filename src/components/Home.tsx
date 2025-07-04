@@ -117,10 +117,9 @@ function Home() {
                 <br/>Fail again, and you are exiled. Permanently.
               </p>
 
-              <h3 className='text-2xl md:text-3xl font-bold fade-in-up-stagger-4'>We have standards.</h3>
               <p className='fade-in-up-stagger-4'>
                 The blacklist is automated. Impartial. Unforgiving.
-                <br/>The mechanism that keeps the coals burning.
+                <br/>The mechanism that keeps this engine firing.
               </p>
 
               <p className='fade-in-up-stagger-4'>
@@ -133,8 +132,8 @@ function Home() {
                 <br/>The centre of gravity for those who execute.
               </p>
 
-              <p className="font-semibold italic text-[#C0C0C0] text-center mt-12 fade-in-up-stagger-5">
-                Build or be forgotten — UK Accelerator.
+              <p className="italic text-[#C0C0C0] text-center mt-12 fade-in-up-stagger-5">
+                <strong>Build or be forgotten</strong> — UK Accelerator.
               </p>
             </div>
           </div>
@@ -167,7 +166,7 @@ function Home() {
               </Link>{' '}
               and{' '}
               <a href="#manifesto" className="text-[#0077FF] hover:underline transition-colors">
-                manifesto.{' '}
+                manifesto
               </a>.
                 Read them first
             </p>
