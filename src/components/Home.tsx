@@ -105,7 +105,7 @@ function Home() {
               </p>
               
               <p className='fade-in-up-stagger-3'>
-                Effort is respected. Excuses are not. Fail to deliver, and you will be warned. Fail again, and you are cast out. Permanently. The blacklist is is an automated, impartial consequence. It is the mechanism that keeps this engine so powerful.
+                Effort is respected. Excuses are not. Fail to deliver, and you will be warned. Fail again, and you are cast out. Permanently. The blacklist is an automated, impartial consequence. It is the mechanism that keeps this engine so powerful.
               </p>
 
               <p className='fade-in-up-stagger-3'>
