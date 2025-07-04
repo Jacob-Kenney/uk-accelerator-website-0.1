@@ -96,7 +96,7 @@ function Home() {
               <h3 className='text-2xl md:text-3xl font-bold fade-in-up-stagger-2'>We are the answer.</h3>
               <p className="fade-in-up-stagger-2">
                 This is not a network. This is not a community.
-                <br/>This is a battleground, built fro the ruthless pursuit of technological supremacy.
+                <br/>This is a battleground, built for the ruthless pursuit of technological supremacy.
                 <br/>We are a self-administering, high-agency collective of elite builders.
               </p>
               <p className='fade-in-up-stagger-2'>
@@ -132,7 +132,7 @@ function Home() {
                 We are the new standard.
                 <br/>The centre of gravity for those who execute.
               </p>
-              
+
               <p className="font-semibold italic text-[#C0C0C0] text-center mt-12 fade-in-up-stagger-5">
                 Build or be forgotten — UK Accelerator.
               </p>
