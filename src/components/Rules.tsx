@@ -9,7 +9,7 @@ function Rules() {
         <img 
           src="/sander-crombach-6b3r1WAjPBI-unsplash (1).jpg" 
           alt="London cityscape with Tower Bridge" 
-          className="w-full h-full object-cover opacity-40"
+          className="w-full h-full object-cover"
         />
         <div className="absolute inset-0 bg-red-600/20"></div>
         <div className="absolute inset-0 bg-gradient-to-b from-[#0A0A0A]/80 to-[#0A0A0A]/95"></div>
