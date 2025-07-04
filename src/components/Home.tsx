@@ -16,7 +16,7 @@ function Home() {
       {/* Fixed Background Image */}
       <div className="fixed inset-0 z-0">
         <img 
-          src="/sander-crombach-6b3r1WAjPBI-unsplash (1).jpg" 
+          src="/sander-crombach-6b3r1WAjPBI-unsplash.jpg"
           alt="London cityscape with Tower Bridge" 
           className="w-full h-full object-cover opacity-70"
         />
@@ -86,24 +86,34 @@ function Home() {
             </h2>
             
             <div className="space-y-8 text-[#FFFFFF] leading-relaxed text-lg md:text-xl">
+              <h3 className='text-2xl md:text-3xl font-bold fade-in-up-stagger-1'>You are here because the noise is deafening.</h3>
               <p className="first-letter:text-5xl first-letter:font-bold first-letter:mr-2 first-letter:float-left first-letter:leading-none first-letter:mt-2 fade-in-up-stagger-1">
-                In the corridors of power, where decisions shape the future of nations, artificial intelligence stands as both architect and oracle. We are not builders of mere applications, but sculptors of systemic change—engineers of the impossible, guardians of the transformative.
+                The endless talk, the digital ghost towns posing as communities, the architectural astronautics replacing execution. It's a sea of mediocrity holding the United Kingdom back.
               </p>
-              
+
+              <h3 className='text-2xl md:text-3xl font-bold fade-in-up-stagger-2'>We are the answer.</h3>
               <p className="fade-in-up-stagger-2">
-                UKACC exists for those who understand that true innovation requires not just technical brilliance, but institutional courage. We seek minds that comprehend the weight of responsibility that comes with wielding tools capable of reshaping entire industries, economies, and societies.
+                This is not a network. It is not a community. It is a battleground, built for the ruthless pursuit of technological supremacy. We are a self-administrating, high-agency collective of elite builders.
+              </p>
+              <p className='fade-in-up-stagger-2'>
+                We don't theorise. We don't complain. We deliver, with exceptional firepower. 
               </p>
               
-              <p className="fade-in-up-stagger-3">
-                Our fellowship extends only to those who demonstrate not merely competence, but character. Who possess not just ambition, but wisdom. Who understand that the greatest technological advances emerge from the intersection of relentless curiosity and disciplined restraint.
+              <h3 className='text-2xl md:text-3xl font-bold fade-in-up-stagger-3'>Execution is the only metric.</h3>
+              <p className='fade-in-up-stagger-3'>
+                This is enforced by our central ritual, the <strong>Fight Night</strong>. Every month, you will ship a feature, a proof-of-concept, or a product. You will demo your work and prove you belong.
               </p>
               
-              <p className="fade-in-up-stagger-4">
-                We are the quiet revolution. The calculated disruption. The thoughtful transformation of what it means to build systems that think, learn, and decide alongside human intelligence.
+              <p className='fade-in-up-stagger-3'>
+                Effort is respected. Excuses are not. Fail to deliver, and you will be warned. Fail again, and you are cast out. Permanently. The blacklist is is an automated, impartial consequence. It is the mechanism that keeps this engine so powerful.
+              </p>
+
+              <p className='fade-in-up-stagger-3'>
+                This is not a place for spectators. It is a place for gladiators. It is for those who are tired of playing games and are ready to build the future. We are setting the new standard for technological excellence in Britain, creating the cultural centre of gravity for those who do.
               </p>
               
               <p className="font-semibold italic text-[#C0C0C0] text-center mt-12 fade-in-up-stagger-5">
-                This is not for everyone. This is for the few who would reshape everything.
+                Build or be forgotten — UK Accelerator.
               </p>
             </div>
           </div>

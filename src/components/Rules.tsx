@@ -1,4 +1,4 @@
-import { ArrowLeft, Users, Target, Shield, UserCheck, Scale, Flame } from 'lucide-react';
+import { ArrowLeft, Users, Target, Shield, UserCheck, Scale } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 function Rules() {
@@ -7,18 +7,18 @@ function Rules() {
       {/* Fixed Background Image */}
       <div className="fixed inset-0 z-0">
         <img 
-          src="/sander-crombach-6b3r1WAjPBI-unsplash (1).jpg" 
-          alt="London cityscape with Tower Bridge" 
+          src="/luke-ow-_o7WxqRnm6s-unsplash.jpg" 
+          alt="Buckingham Palace with the Queen's Guard" 
           className="w-full h-full object-cover"
         />
-        <div className="absolute inset-0 bg-red-600/20"></div>
+        <div className="absolute inset-0 bg-blue-600/30"></div>
         <div className="absolute inset-0 bg-gradient-to-b from-[#0A0A0A]/80 to-[#0A0A0A]/95"></div>
       </div>
 
       {/* Content Container */}
       <div className="relative z-10">
         {/* Header */}
-        <header className="py-12 px-6">
+        <header className="py-24 px-6">
           <div className="max-w-4xl mx-auto">
             <Link 
               to="/" 
