@@ -88,28 +88,49 @@ function Home() {
             <div className="space-y-8 text-[#FFFFFF] leading-relaxed text-lg md:text-xl">
               <h3 className='text-2xl md:text-3xl font-bold fade-in-up-stagger-1'>You are here because the noise is deafening.</h3>
               <p className="first-letter:text-5xl first-letter:font-bold first-letter:mr-2 first-letter:float-left first-letter:leading-none first-letter:mt-2 fade-in-up-stagger-1">
-                The endless talk, the digital ghost towns posing as communities, the architectural astronautics replacing execution. It's a sea of mediocrity holding the United Kingdom back.
+                The endless talk. The digital ghost towns posing as communities.
+                <br/>The architectural astronautics replacing execution.
+                <br/>It's a sea of mediocrity, and it's holding the United Kingdom back.
               </p>
 
               <h3 className='text-2xl md:text-3xl font-bold fade-in-up-stagger-2'>We are the answer.</h3>
               <p className="fade-in-up-stagger-2">
-                This is not a network. It is not a community. It is a battleground, built for the ruthless pursuit of technological supremacy. We are a self-administrating, high-agency collective of elite builders.
+                This is not a network. This is not a community.
+                <br/>This is a battleground, built fro the ruthless pursuit of technological supremacy.
+                <br/>We are a self-administering, high-agency collective of elite builders.
               </p>
               <p className='fade-in-up-stagger-2'>
-                We don't theorise. We don't complain. We deliver, with exceptional firepower. 
+                We don't theorise. We don't complain. 
+                <br/>We deliver, with exceptional firepower. 
               </p>
               
               <h3 className='text-2xl md:text-3xl font-bold fade-in-up-stagger-3'>Execution is the only metric.</h3>
               <p className='fade-in-up-stagger-3'>
-                This is enforced by our central ritual, the <strong>Fight Night</strong>. Every month, you will ship a feature, a proof-of-concept, or a product. You will demo your work and prove you belong.
+                That's enforced through our central ritual, the <strong>Fight Night</strong>. 
+                <br/>Every month, you ship a feature, a proof-of-concept, or a product. 
+                <br/>You demo your work. You prove you belong.
               </p>
               
               <p className='fade-in-up-stagger-3'>
-                Effort is respected. Excuses are not. Fail to deliver, and you will be warned. Fail again, and you are cast out. Permanently. The blacklist is an automated, impartial consequence. It is the mechanism that keeps this engine so powerful.
+                Effort is respected. Excuses are not. 
+                <br/>Fail to deliver a demo, and you are warned.
+                <br/>Fail again, and you are exiled. Permanently.
               </p>
 
-              <p className='fade-in-up-stagger-3'>
-                This is not a place for spectators. It is a place for gladiators. It is for those who are tired of playing games and are ready to build the future. We are setting the new standard for technological excellence in Britain, creating the cultural centre of gravity for those who do.
+              <h3 className='text-2xl md:text-3xl font-bold fade-in-up-stagger-4'>We have standards.</h3>
+              <p className='fade-in-up-stagger-4'>
+                The blacklist is automated. Impartial. Unforgiving.
+                <br/>The mechanism that keeps the coals burning.
+              </p>
+
+              <p className='fade-in-up-stagger-4'>
+                This is not a place for spectators.
+                <br/>This is a place for gladiators.
+              </p>
+
+              <p className='fade-in-up-stagger-4'>
+                We are the new standard.
+                <br/>The centre of gravity for those who execute.
               </p>
               
               <p className="font-semibold italic text-[#C0C0C0] text-center mt-12 fade-in-up-stagger-5">
