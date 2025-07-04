@@ -89,7 +89,7 @@ function Rules() {
                 <p>2.2. Effort is respected. Absence is not.</p>
                 <p>2.3. There are no spectators. Every member is either building or leaving.</p>
                 <p>2.4. No posturing. No vibes. No theatre. Only output, progress, and real work.</p>
-                <p>2.5. Feedback is expected to be constructive, professional and actionable. <strong>Do not be an asshole</strong> -- Start with what's good. End with what could be better. That's the rule</p>
+                <p>2.5. Feedback is expected to be constructive, professional and actionable. <strong>Do not be an asshole</strong>. Start with what's good. End with what could be better. That's the rule</p>
               </div>
             </section>
 
