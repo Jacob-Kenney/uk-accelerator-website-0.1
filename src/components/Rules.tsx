@@ -139,7 +139,8 @@ function Rules() {
               <div className="space-y-6 text-[#FFFFFF] leading-relaxed text-lg">
                 <p>5.1. Enforcement is automated, impartial, and unapologetic. Rules are applied without bias.</p>
                 <p>5.2. <strong>The blacklist is permanent.</strong> Re-entry is not permitted.</p>
-                <p className="font-semibold italic text-center text-xl mt-12 p-6 border-t border-[#333333]">
+                
+                <p className="font-semibold italic text-[#C0C0C0] text-center text-xl mt-12 p-6 border-t border-[#333333]">
                   Build, or be forgotten. There are no second chances.
                 </p>
               </div>
